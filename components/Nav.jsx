@@ -37,7 +37,7 @@ const Nav = () => {
           <div className="flex gap-3 md:gap-5">
             <Link href="/create-prompt" className="black_btn">
               {" "}
-              Create Post
+              Create Post  
             </Link>
 
             <button onClick={signOut} type="button" className="outline_btn">
